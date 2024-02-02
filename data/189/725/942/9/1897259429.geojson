@@ -2,10 +2,12 @@
   "id": 1897259429,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-02-02",
+    "date:cessation_upper": "2024-02-02",
     "date:inception_lower": "2024-02-01",
     "date:inception_upper": "2024-02-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-01",
+    "edtf:cessation": "2024-02-02T02:18:00Z",
+    "edtf:inception": "2024-02-01T08:50:28-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20240201-D-ANZ-9406",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N468UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75962510",
+      "swim:gufi": "KO77500500"
+    },
     "wof:country": "US",
     "wof:created": 1706891157,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -90,9 +104,10 @@
       102527513,
       1159285413,
       1763588283,
-      1159283697
+      1159283697,
+      1159292085
     ],
-    "wof:lastmodified": 1706891157,
+    "wof:lastmodified": 1706891324,
     "wof:name": "UA2603 (SFO-SEA)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",
