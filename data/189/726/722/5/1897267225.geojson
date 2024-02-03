@@ -2,10 +2,12 @@
   "id": 1897267225,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-02-02",
+    "date:cessation_upper": "2024-02-02",
     "date:inception_lower": "2024-02-02",
     "date:inception_upper": "2024-02-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-02",
+    "edtf:cessation": "2024-02-02T21:49:35Z",
+    "edtf:inception": "2024-02-02T20:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20240202-D-AMX-4008",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +60,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "76150577"
+    },
     "wof:country": "US",
     "wof:created": 1706977210,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +96,14 @@
     ],
     "wof:id": 1897267225,
     "wof:involves": [
+      1159289411,
       102533795,
       102527513,
       1159284261,
       1763588245,
       1159283539
     ],
-    "wof:lastmodified": 1706977210,
+    "wof:lastmodified": 1706977673,
     "wof:name": "DL1427 (SFO-LAX)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",
