@@ -2,10 +2,12 @@
   "id": 1897272797,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-02-03",
-    "date:inception_upper": "2024-02-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-03",
+    "date:cessation_lower": "2024-02-03",
+    "date:cessation_upper": "2024-02-03",
+    "date:inception_lower": "2024-02-04",
+    "date:inception_upper": "2024-02-04",
+    "edtf:cessation": "2024-02-03T12:50:15-08:00",
+    "edtf:inception": "2024-02-04T01:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240203-A-AFR-2294",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N930DZ",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "76173825",
+      "swim:gufi": "KP00049102"
+    },
     "wof:country": "US",
     "wof:created": 1707062828,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897272797,
     "wof:involves": [
-      102527513,
-      102531131,
       1159284261,
       1763588243,
-      1159283627
+      1159283627,
+      1377564285,
+      102527513,
+      102531131
     ],
-    "wof:lastmodified": 1707062828,
+    "wof:lastmodified": 1707063936,
     "wof:name": "DL813 (MSP-SFO)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

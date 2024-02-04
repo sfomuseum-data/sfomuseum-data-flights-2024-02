@@ -2,10 +2,12 @@
   "id": 1897276981,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-02-03",
-    "date:inception_upper": "2024-02-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-03",
+    "date:cessation_lower": "2024-02-04",
+    "date:cessation_upper": "2024-02-04",
+    "date:inception_lower": "2024-02-04",
+    "date:inception_upper": "2024-02-04",
+    "edtf:cessation": "2024-02-04T08:23:00Z",
+    "edtf:inception": "2024-02-04T07:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618578,
     "lbl:longitude": -122.385434,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102525535,
     "sfomuseum:base_flight_id": "20240203-D-ACA-4370",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N429UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "76188775",
+      "swim:gufi": "KO18969100"
+    },
     "wof:country": "US",
     "wof:created": 1707063788,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -90,9 +104,10 @@
       102527513,
       1159285413,
       1763588281,
-      1159283597
+      1159283597,
+      1159292085
     ],
-    "wof:lastmodified": 1707063788,
+    "wof:lastmodified": 1707063961,
     "wof:name": "UA2313 (SFO-RNO)",
     "wof:parent_id": 1763588281,
     "wof:placetype": "custom",

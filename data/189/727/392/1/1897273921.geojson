@@ -2,10 +2,12 @@
   "id": 1897273921,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-02-03",
-    "date:inception_upper": "2024-02-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-03",
+    "date:cessation_lower": "2024-02-03",
+    "date:cessation_upper": "2024-02-03",
+    "date:inception_lower": "2024-02-04",
+    "date:inception_upper": "2024-02-04",
+    "edtf:cessation": "2024-02-03T13:58:26-08:00",
+    "edtf:inception": "2024-02-04T04:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-02-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N24980",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KL03682100"
+    },
     "wof:country": "US",
     "wof:created": 1707063092,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -48,9 +60,9 @@
       102527513,
       102533795,
       1159285413,
-      -1
+      1159293215
     ],
-    "wof:lastmodified": 1707063092,
+    "wof:lastmodified": 1707063958,
     "wof:name": "UA3900 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
