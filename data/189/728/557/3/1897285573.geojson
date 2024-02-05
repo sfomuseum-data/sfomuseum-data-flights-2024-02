@@ -2,10 +2,12 @@
   "id": 1897285573,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-02-04",
-    "date:inception_upper": "2024-02-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-04",
+    "date:cessation_lower": "2024-02-05",
+    "date:cessation_upper": "2024-02-05",
+    "date:inception_lower": "2024-02-05",
+    "date:inception_upper": "2024-02-05",
+    "edtf:cessation": "2024-02-05T03:42:54Z",
+    "edtf:inception": "2024-02-05T02:29:54Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-02-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:departure_id": 102527513,
@@ -48,6 +52,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "76327473"
+    },
     "wof:country": "US",
     "wof:created": 1707150273,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -84,9 +91,10 @@
       102528997,
       102527513,
       1159285591,
-      1763588185
+      1763588185,
+      1159289869
     ],
-    "wof:lastmodified": 1707150273,
+    "wof:lastmodified": 1707150533,
     "wof:name": "WN1879 (SFO-SAN)",
     "wof:parent_id": 1763588185,
     "wof:placetype": "custom",

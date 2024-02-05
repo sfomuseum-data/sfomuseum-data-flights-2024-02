@@ -2,10 +2,12 @@
   "id": 1897282381,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-02-04",
+    "date:cessation_upper": "2024-02-04",
     "date:inception_lower": "2024-02-04",
     "date:inception_upper": "2024-02-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-04",
+    "edtf:cessation": "2024-02-04T23:11:35Z",
+    "edtf:inception": "2024-02-04T18:11:54Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "76359799"
+    },
     "wof:country": "US",
     "wof:created": 1707149513,
     "wof:geomhash": "10c01f207ef95eecc919066d165ec5eb",
@@ -92,7 +97,7 @@
       1763588159,
       1159283875
     ],
-    "wof:lastmodified": 1707149513,
+    "wof:lastmodified": 1707150543,
     "wof:name": "UA1387 (BWI-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

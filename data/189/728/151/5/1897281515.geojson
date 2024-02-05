@@ -2,10 +2,12 @@
   "id": 1897281515,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-02-04",
-    "date:inception_upper": "2024-02-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-04",
+    "date:cessation_lower": "2024-02-05",
+    "date:cessation_upper": "2024-02-05",
+    "date:inception_lower": "2024-02-05",
+    "date:inception_upper": "2024-02-05",
+    "edtf:cessation": "2024-02-04T17:43:56-08:00",
+    "edtf:inception": "2024-02-05T07:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2024-02-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "F9",
+    "icao:aircraft": "A320",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N232FR",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KA20151200"
+    },
     "wof:country": "US",
     "wof:created": 1707149309,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -45,12 +56,12 @@
     ],
     "wof:id": 1897281515,
     "wof:involves": [
-      102527513,
       102526751,
       1159284401,
-      -1
+      1159292085,
+      102527513
     ],
-    "wof:lastmodified": 1707149309,
+    "wof:lastmodified": 1707150519,
     "wof:name": "F92637 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
