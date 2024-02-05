@@ -1,0 +1,69 @@
+{
+  "id": 1897281299,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-02-04",
+    "date:inception_upper": "2024-02-04",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-02-04",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2024-02-04",
+    "flysfo:estimated_timestamp": 1707065940,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL425",
+    "flysfo:gate": "",
+    "flysfo:journey": "EGE-SFO",
+    "flysfo:scheduled_timestamp": 1707066420,
+    "flysfo:timestamp": 1707066420,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-106.914310,39.641137",
+    "geom:latitude": 38.6295635,
+    "geom:longitude": -114.6426265,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102528809,
+    "sfomuseum:flight_id": "20240204-A-DAL-425",
+    "sfomuseum:flight_number": [
+      "DAL425",
+      "DL425"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1707149257,
+    "wof:geomhash": "cf2e6d8f729795819679319a6b605e44",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1897281299
+      }
+    ],
+    "wof:id": 1897281299,
+    "wof:involves": [
+      102527513,
+      102528809,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1707149257,
+    "wof:name": "DL425 (EGE-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -106.91431,
+    39.641137
+  ],
+  "geometry": {"coordinates":[[-106.91431,39.641137],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
