@@ -2,10 +2,12 @@
   "id": 1897291091,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-02-05",
+    "date:cessation_upper": "2024-02-05",
     "date:inception_lower": "2024-02-05",
     "date:inception_upper": "2024-02-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-05",
+    "edtf:cessation": "2024-02-05T09:38:00Z",
+    "edtf:inception": "2024-02-05T07:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-02-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531189,
@@ -48,6 +52,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "76352235",
+      "swim:gufi": "KD14889200"
+    },
     "wof:country": "US",
     "wof:created": 1707235870,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1897291091,
     "wof:involves": [
+      1159289871,
       102527513,
       102531189,
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1707235870,
+    "wof:lastmodified": 1707236897,
     "wof:name": "WN2073 (DEN-SFO)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",

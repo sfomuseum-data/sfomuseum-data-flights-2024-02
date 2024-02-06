@@ -2,10 +2,12 @@
   "id": 1897289803,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-02-05",
+    "date:cessation_upper": "2024-02-05",
     "date:inception_lower": "2024-02-05",
     "date:inception_upper": "2024-02-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-05",
+    "edtf:cessation": "2024-02-05T21:55:40Z",
+    "edtf:inception": "2024-02-05T19:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "JAL",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240205-A-JAL-6338",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N459AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "76393969",
+      "swim:gufi": "KS65710201"
+    },
     "wof:country": "US",
     "wof:created": 1707235546,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897289803,
     "wof:involves": [
+      1377564285,
       102527513,
       102533269,
       1159283813,
       1763588139,
       1159284563
     ],
-    "wof:lastmodified": 1707235546,
+    "wof:lastmodified": 1707236897,
     "wof:name": "AS1284 (SEA-SFO)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

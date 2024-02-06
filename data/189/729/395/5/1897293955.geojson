@@ -2,10 +2,12 @@
   "id": 1897293955,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-02-06",
+    "date:cessation_upper": "2024-02-06",
     "date:inception_lower": "2024-02-05",
     "date:inception_upper": "2024-02-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-05",
+    "edtf:cessation": "2024-02-06T12:59:22Z",
+    "edtf:inception": "2024-02-05T15:44:52-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "icao:base_airline": "ICE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:base_flight_id": "20240205-D-ICE-7830",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N947JB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "76355043"
+    },
     "wof:country": "US",
     "wof:created": 1707236546,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -90,9 +102,10 @@
       102527513,
       1159284583,
       1763588181,
-      1159284513
+      1159284513,
+      1159289411
     ],
-    "wof:lastmodified": 1707236546,
+    "wof:lastmodified": 1707236903,
     "wof:name": "B634 (SFO-BOS)",
     "wof:parent_id": 1763588181,
     "wof:placetype": "custom",
