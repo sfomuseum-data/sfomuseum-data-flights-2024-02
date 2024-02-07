@@ -2,10 +2,12 @@
   "id": 1897300199,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-02-06",
+    "date:cessation_upper": "2024-02-06",
     "date:inception_lower": "2024-02-06",
     "date:inception_upper": "2024-02-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-06",
+    "edtf:cessation": "2024-02-06T02:48:00Z",
+    "edtf:inception": "2024-02-06T00:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.5547415,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240206-A-ANZ-9486",
@@ -53,6 +57,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "76409583"
+    },
     "wof:country": "US",
     "wof:created": 1707322317,
     "wof:geomhash": "8649ee81ac1d01facd07821b56f3d6b7",
@@ -90,9 +97,10 @@
       102534217,
       1159285413,
       1763588285,
-      1159283697
+      1159283697,
+      1159292085
     ],
-    "wof:lastmodified": 1707322317,
+    "wof:lastmodified": 1707323213,
     "wof:name": "UA2064 (JAC-SFO)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",
