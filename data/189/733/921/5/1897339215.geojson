@@ -2,10 +2,12 @@
   "id": 1897339215,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2024-02-10",
     "date:inception_upper": "2024-02-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-10",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2024-02-10T05:12:18-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20240210-D-ANZ-9056",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37567",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897339215,
     "wof:involves": [
+      1763588285,
+      1159283697,
+      1528104577,
       102531189,
       102527513,
-      1159285413,
-      1763588285,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1707668645,
+    "wof:lastmodified": 1707668749,
     "wof:name": "UA726 (SFO-DEN)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",
