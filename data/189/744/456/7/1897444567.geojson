@@ -2,10 +2,12 @@
   "id": 1897444567,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-02-23",
-    "date:inception_upper": "2024-02-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-23",
+    "date:cessation_lower": "2024-02-23",
+    "date:cessation_upper": "2024-02-23",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2024-02-23T13:33:07-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.859366,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240223-A-DLH-7859",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N47293",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897444567,
     "wof:involves": [
+      1159286015,
+      1528104575,
       102527513,
       102528943,
       1159285413,
-      1763588357,
-      1159286015
+      1763588357
     ],
-    "wof:lastmodified": 1708791237,
+    "wof:lastmodified": 1708792348,
     "wof:name": "UA1563 (LIH-SFO)",
     "wof:parent_id": 1763588357,
     "wof:placetype": "custom",
