@@ -2,10 +2,12 @@
   "id": 1897492499,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-02-29",
+    "date:cessation_upper": "2024-02-29",
     "date:inception_lower": "2024-02-29",
     "date:inception_upper": "2024-02-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-29",
+    "edtf:cessation": "2024-02-29T10:48:33Z",
+    "edtf:inception": "2024-02-29T06:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -104.5237975,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102525035,
     "sfomuseum:base_flight_id": "20240229-D-ANZ-9139",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78622722",
+      "swim:gufi": "KO14108500"
+    },
     "wof:country": "US",
     "wof:created": 1709310576,
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897492499,
     "wof:involves": [
-      102525035,
       102527513,
       1159285413,
       1763588351,
-      1159283697
+      1159283697,
+      1159292085,
+      102525035
     ],
-    "wof:lastmodified": 1709310576,
+    "wof:lastmodified": 1709310836,
     "wof:name": "UA2142 (SFO-BNA)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",

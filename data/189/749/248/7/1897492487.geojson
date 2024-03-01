@@ -2,10 +2,12 @@
   "id": 1897492487,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-02-29",
+    "date:cessation_upper": "2024-02-29",
     "date:inception_lower": "2024-02-29",
     "date:inception_upper": "2024-02-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-02-29",
+    "edtf:cessation": "2024-02-29T02:27:00Z",
+    "edtf:inception": "2024-02-29T00:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618774,
     "lbl:longitude": -122.384852,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:base_flight_id": "20240229-D-ANZ-9371",
@@ -53,6 +57,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78606759"
+    },
     "wof:country": "US",
     "wof:created": 1709310574,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -86,13 +93,14 @@
     ],
     "wof:id": 1897492487,
     "wof:involves": [
-      102526751,
-      102527513,
       1159285413,
       1763588341,
-      1159283697
+      1159283697,
+      1159289871,
+      102526751,
+      102527513
     ],
-    "wof:lastmodified": 1709310574,
+    "wof:lastmodified": 1709310835,
     "wof:name": "UA2077 (SFO-PHX)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",
