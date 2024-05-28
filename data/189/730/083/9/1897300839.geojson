@@ -45,6 +45,7 @@
     "wof:geomhash": "f3115fe3d28c66ab4b94072923e0b1bb",
     "wof:hierarchy": [
       {
+        "custom_id": 1897300839,
         "flight_id": 1897300839
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285485
     ],
-    "wof:lastmodified": 1707322464,
+    "wof:lastmodified": 1716593850,
     "wof:name": "VA8590 (SYD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

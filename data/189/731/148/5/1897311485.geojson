@@ -40,6 +40,7 @@
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy": [
       {
+        "custom_id": 1897311485,
         "flight_id": 1897311485
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1707409203,
+    "wof:lastmodified": 1716593851,
     "wof:name": "DL9968 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

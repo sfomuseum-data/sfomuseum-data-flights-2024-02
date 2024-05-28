@@ -53,6 +53,7 @@
     "wof:geomhash": "c0d6b7b15085f29a6d4be92b4dd147bf",
     "wof:hierarchy": [
       {
+        "custom_id": 1897258181,
         "flight_id": 1897258181
       }
     ],
@@ -63,11 +64,13 @@
       102527185,
       102527513
     ],
-    "wof:lastmodified": 1706891332,
+    "wof:lastmodified": 1716593855,
     "wof:name": "DL8926 (SFO-MEM)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

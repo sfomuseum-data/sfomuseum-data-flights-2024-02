@@ -48,6 +48,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1897391105,
         "flight_id": 1897391105
       }
     ],
@@ -58,11 +59,13 @@
       1159289939,
       102530049
     ],
-    "wof:lastmodified": 1708187467,
+    "wof:lastmodified": 1716593860,
     "wof:name": "UA8247 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

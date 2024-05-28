@@ -58,6 +58,7 @@
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897285937,
         "flight_id": 1897285937
       }
     ],
@@ -69,11 +70,13 @@
       102533997,
       102527513
     ],
-    "wof:lastmodified": 1707150534,
+    "wof:lastmodified": 1716593856,
     "wof:name": "UA2380 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

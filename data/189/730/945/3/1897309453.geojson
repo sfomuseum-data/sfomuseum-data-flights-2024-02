@@ -48,6 +48,7 @@
     "wof:geomhash": "695a4459433e46f84142eb882ae7a106",
     "wof:hierarchy": [
       {
+        "custom_id": 1897309453,
         "flight_id": 1897309453
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102527175
     ],
-    "wof:lastmodified": 1707409634,
+    "wof:lastmodified": 1716593857,
     "wof:name": "UA3870 (IAB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

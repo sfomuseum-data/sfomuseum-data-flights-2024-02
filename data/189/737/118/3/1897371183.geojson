@@ -40,6 +40,7 @@
     "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
+        "custom_id": 1897371183,
         "flight_id": 1897371183
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1708013667,
+    "wof:lastmodified": 1716593859,
     "wof:name": "AA319 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

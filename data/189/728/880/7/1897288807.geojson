@@ -40,6 +40,7 @@
     "wof:geomhash": "094b2380067f0814bdd38962ab53e3d3",
     "wof:hierarchy": [
       {
+        "custom_id": 1897288807,
         "flight_id": 1897288807
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1707235278,
+    "wof:lastmodified": 1716593857,
     "wof:name": "AA204 (ONT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -52,6 +52,7 @@
     "wof:geomhash": "5cb31017412a00ced54cc35c2a74371e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897259075,
         "flight_id": 1897259075
       }
     ],
@@ -62,11 +63,13 @@
       102527513,
       1159285591
     ],
-    "wof:lastmodified": 1706891322,
+    "wof:lastmodified": 1716593856,
     "wof:name": "WN8915 (SFO-SMF)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

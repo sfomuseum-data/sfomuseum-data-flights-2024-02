@@ -45,6 +45,7 @@
     "wof:geomhash": "75c5706ba72cddd7f95f840531183522",
     "wof:hierarchy": [
       {
+        "custom_id": 1897440231,
         "flight_id": 1897440231
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285413
     ],
-    "wof:lastmodified": 1708705795,
+    "wof:lastmodified": 1716593860,
     "wof:name": "UA9725 (SFO-ZRH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

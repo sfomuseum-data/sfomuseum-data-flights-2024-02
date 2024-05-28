@@ -40,6 +40,7 @@
     "wof:geomhash": "5aa704d308ccde2b747329ebb6ffcf42",
     "wof:hierarchy": [
       {
+        "custom_id": 1897353375,
         "flight_id": 1897353375
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1707840788,
+    "wof:lastmodified": 1716593860,
     "wof:name": "UA3786 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

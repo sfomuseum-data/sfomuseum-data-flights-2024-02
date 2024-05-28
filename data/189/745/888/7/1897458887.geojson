@@ -40,6 +40,7 @@
     "wof:geomhash": "57b2b594ef41523ab9fe7c26d147f9bd",
     "wof:hierarchy": [
       {
+        "custom_id": 1897458887,
         "flight_id": 1897458887
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1708963612,
+    "wof:lastmodified": 1716593872,
     "wof:name": "AS1345 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

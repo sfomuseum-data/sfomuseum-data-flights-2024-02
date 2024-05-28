@@ -48,6 +48,7 @@
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
     "wof:hierarchy": [
       {
+        "custom_id": 1897398933,
         "flight_id": 1897398933
       }
     ],
@@ -58,11 +59,13 @@
       1159285413,
       1528104575
     ],
-    "wof:lastmodified": 1708273777,
+    "wof:lastmodified": 1716593868,
     "wof:name": "UA8203 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

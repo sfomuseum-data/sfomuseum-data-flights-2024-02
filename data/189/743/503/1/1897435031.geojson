@@ -48,6 +48,7 @@
     "wof:geomhash": "aecdd4fa1f8944d2eefd3273b1547edd",
     "wof:hierarchy": [
       {
+        "custom_id": 1897435031,
         "flight_id": 1897435031
       }
     ],
@@ -58,11 +59,13 @@
       102547639,
       1159283495
     ],
-    "wof:lastmodified": 1708705922,
+    "wof:lastmodified": 1716593864,
     "wof:name": "EI961 (DUB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

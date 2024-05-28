@@ -45,6 +45,7 @@
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
     "wof:hierarchy": [
       {
+        "custom_id": 1897284559,
         "flight_id": 1897284559
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284613
     ],
-    "wof:lastmodified": 1707150036,
+    "wof:lastmodified": 1716593854,
     "wof:name": "MU8855 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

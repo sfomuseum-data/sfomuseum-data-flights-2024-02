@@ -40,6 +40,7 @@
     "wof:geomhash": "b883d8e3c3c604f714c4dc756f6c1133",
     "wof:hierarchy": [
       {
+        "custom_id": 1897273819,
         "flight_id": 1897273819
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1707063069,
+    "wof:lastmodified": 1716593852,
     "wof:name": "UA2 (SIN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897472487,
         "flight_id": 1897472487
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1709051557,
+    "wof:lastmodified": 1716593871,
     "wof:name": "DL8926 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

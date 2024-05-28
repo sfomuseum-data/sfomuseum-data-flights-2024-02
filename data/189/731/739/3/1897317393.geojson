@@ -48,6 +48,7 @@
     "wof:geomhash": "3ccef5323f8b759efee07225c392c83b",
     "wof:hierarchy": [
       {
+        "custom_id": 1897317393,
         "flight_id": 1897317393
       }
     ],
@@ -58,11 +59,13 @@
       102556445,
       1159284625
     ],
-    "wof:lastmodified": 1707496129,
+    "wof:lastmodified": 1716593856,
     "wof:name": "KE2441 (GMP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "b03a18c879ef85a5ca01fa93c99f372c",
     "wof:hierarchy": [
       {
+        "custom_id": 1897286029,
         "flight_id": 1897286029
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1707150378,
+    "wof:lastmodified": 1716593856,
     "wof:name": "UA4805 (SFO-MCI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

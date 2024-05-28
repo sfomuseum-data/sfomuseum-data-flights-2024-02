@@ -40,6 +40,7 @@
     "wof:geomhash": "6716e4c7ca0e3c1891c385118d042906",
     "wof:hierarchy": [
       {
+        "custom_id": 1897303569,
         "flight_id": 1897303569
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1707323118,
+    "wof:lastmodified": 1716593854,
     "wof:name": "UA6951 (SFO-TUS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

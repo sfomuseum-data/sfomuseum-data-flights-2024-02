@@ -48,6 +48,7 @@
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
+        "custom_id": 1897356669,
         "flight_id": 1897356669
       }
     ],
@@ -58,11 +59,13 @@
       102527209,
       102527513
     ],
-    "wof:lastmodified": 1707841718,
+    "wof:lastmodified": 1716593864,
     "wof:name": "UA3774 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

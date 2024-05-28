@@ -48,6 +48,7 @@
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
+        "custom_id": 1897420303,
         "flight_id": 1897420303
       }
     ],
@@ -58,11 +59,13 @@
       102528997,
       1159285413
     ],
-    "wof:lastmodified": 1708532953,
+    "wof:lastmodified": 1716593860,
     "wof:name": "UA8181 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

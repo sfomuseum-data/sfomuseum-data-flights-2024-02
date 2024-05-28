@@ -40,6 +40,7 @@
     "wof:geomhash": "749696abda6afece8bfb20d9b4325da6",
     "wof:hierarchy": [
       {
+        "custom_id": 1897423481,
         "flight_id": 1897423481
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1708532790,
+    "wof:lastmodified": 1716593863,
     "wof:name": "UA3897 (SFO-AMA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

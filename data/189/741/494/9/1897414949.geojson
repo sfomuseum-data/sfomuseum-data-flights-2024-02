@@ -40,6 +40,7 @@
     "wof:geomhash": "7027f9178c7d77a5f6f9a377b7a1bb37",
     "wof:hierarchy": [
       {
+        "custom_id": 1897414949,
         "flight_id": 1897414949
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1708446425,
+    "wof:lastmodified": 1716593865,
     "wof:name": "UA2931 (SFO-FAT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

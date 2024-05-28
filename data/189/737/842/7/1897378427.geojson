@@ -48,6 +48,7 @@
     "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
     "wof:hierarchy": [
       {
+        "custom_id": 1897378427,
         "flight_id": 1897378427
       }
     ],
@@ -58,11 +59,13 @@
       102525535,
       1159285413
     ],
-    "wof:lastmodified": 1708101051,
+    "wof:lastmodified": 1716593867,
     "wof:name": "UA3852 (RNO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

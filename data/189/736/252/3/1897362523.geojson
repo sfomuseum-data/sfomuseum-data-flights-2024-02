@@ -40,6 +40,7 @@
     "wof:geomhash": "3b3e9c3ec34a983f815de975c27882c1",
     "wof:hierarchy": [
       {
+        "custom_id": 1897362523,
         "flight_id": 1897362523
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1707927148,
+    "wof:lastmodified": 1716593860,
     "wof:name": "UA6968 (BFL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

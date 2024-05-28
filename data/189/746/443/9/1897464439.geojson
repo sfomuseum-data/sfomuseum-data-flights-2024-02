@@ -40,6 +40,7 @@
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
     "wof:hierarchy": [
       {
+        "custom_id": 1897464439,
         "flight_id": 1897464439
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1708965053,
+    "wof:lastmodified": 1716593871,
     "wof:name": "UA2935 (SFO-BOI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

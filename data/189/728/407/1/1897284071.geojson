@@ -45,6 +45,7 @@
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
     "wof:hierarchy": [
       {
+        "custom_id": 1897284071,
         "flight_id": 1897284071
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1707149925,
+    "wof:lastmodified": 1716593854,
     "wof:name": "NZ9399 (SFO-BOI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

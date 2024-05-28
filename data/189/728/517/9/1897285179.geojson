@@ -45,6 +45,7 @@
     "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
     "wof:hierarchy": [
       {
+        "custom_id": 1897285179,
         "flight_id": 1897285179
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283627
     ],
-    "wof:lastmodified": 1707150182,
+    "wof:lastmodified": 1716593855,
     "wof:name": "KL4801 (SFO-LHR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

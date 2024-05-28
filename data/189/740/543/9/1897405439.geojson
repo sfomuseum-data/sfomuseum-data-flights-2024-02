@@ -40,6 +40,7 @@
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897405439,
         "flight_id": 1897405439
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1708359754,
+    "wof:lastmodified": 1716593865,
     "wof:name": "DL9971 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

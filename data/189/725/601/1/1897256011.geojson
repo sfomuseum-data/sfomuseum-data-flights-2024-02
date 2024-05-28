@@ -54,6 +54,7 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "custom_id": 1897256011,
         "flight_id": 1897256011
       }
     ],
@@ -64,11 +65,13 @@
       1159285413,
       1159292085
     ],
-    "wof:lastmodified": 1706891329,
+    "wof:lastmodified": 1716593852,
     "wof:name": "UA3868 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

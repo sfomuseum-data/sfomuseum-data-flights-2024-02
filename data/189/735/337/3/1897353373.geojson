@@ -48,6 +48,7 @@
     "wof:geomhash": "35ddb46351d590846e83b74bc4468cc8",
     "wof:hierarchy": [
       {
+        "custom_id": 1897353373,
         "flight_id": 1897353373
       }
     ],
@@ -58,11 +59,13 @@
       1159289985,
       102527513
     ],
-    "wof:lastmodified": 1707841708,
+    "wof:lastmodified": 1716593860,
     "wof:name": "UA3773 (MCI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

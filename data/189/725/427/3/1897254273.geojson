@@ -40,6 +40,7 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
+        "custom_id": 1897254273,
         "flight_id": 1897254273
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1706889947,
+    "wof:lastmodified": 1716593869,
     "wof:name": "AS735 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "cf2e6d8f729795819679319a6b605e44",
     "wof:hierarchy": [
       {
+        "custom_id": 1897281299,
         "flight_id": 1897281299
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1707149257,
+    "wof:lastmodified": 1716593850,
     "wof:name": "DL425 (EGE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

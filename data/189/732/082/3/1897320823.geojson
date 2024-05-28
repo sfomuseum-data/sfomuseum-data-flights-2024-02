@@ -40,6 +40,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1897320823,
         "flight_id": 1897320823
       }
     ],
@@ -50,11 +51,13 @@
       1159284625,
       -1
     ],
-    "wof:lastmodified": 1707495772,
+    "wof:lastmodified": 1716593851,
     "wof:name": "KE2942 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

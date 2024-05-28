@@ -40,6 +40,7 @@
     "wof:geomhash": "5cb31017412a00ced54cc35c2a74371e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897405381,
         "flight_id": 1897405381
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1708359741,
+    "wof:lastmodified": 1716593865,
     "wof:name": "DL435 (SFO-SMF)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

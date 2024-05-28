@@ -40,6 +40,7 @@
     "wof:geomhash": "c95405ad82a47404b222d64c163ad7d9",
     "wof:hierarchy": [
       {
+        "custom_id": 1897326069,
         "flight_id": 1897326069
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1707581284,
+    "wof:lastmodified": 1716593854,
     "wof:name": "DL8926 (IND-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []

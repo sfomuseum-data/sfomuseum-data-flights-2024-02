@@ -45,6 +45,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1897284433,
         "flight_id": 1897284433
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284389
     ],
-    "wof:lastmodified": 1707150007,
+    "wof:lastmodified": 1716593854,
     "wof:name": "BA2956 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-02",
     "wof:superseded_by": [],
     "wof:supersedes": []
